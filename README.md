@@ -1,0 +1,2 @@
+# Python-Project-Right-Triangle-Distance-and-Average-of-List
+This was a program developed for a school homework assignment in Python.  The first part of the program determines if the values of the sides equal that of a right triangle.  The second part calculates the total distance traveled of a ball given number of bounces.  And the third part calculates the sum and average of given values in a list that the user manually inputs.
